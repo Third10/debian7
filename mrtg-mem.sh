@@ -7,4 +7,4 @@ UP=`uptime`
 echo $FREE
 echo $SWAP
 echo $UP
-echo "apeachsan.tk"
+echo "gohitsvpn.ga"
