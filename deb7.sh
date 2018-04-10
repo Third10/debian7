@@ -20,7 +20,7 @@ sleep 1
 flag=0
 
 clear
-wget --quiet -O iplist.txt https://raw.githubusercontent.com/chayanin12/debian7/master/ip.txt
+wget --quiet -O iplist.txt https://raw.githubusercontent.com/Third10/debian7/master/ip.txt
 
 iplist="iplist.txt"
 
